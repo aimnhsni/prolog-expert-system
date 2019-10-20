@@ -1,3 +1,3 @@
 # prolog-expert-system
-food recognition
+food recognition and
 this is simple expert system
